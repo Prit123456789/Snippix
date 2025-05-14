@@ -2,7 +2,7 @@
 
 A powerful tool for sharing code snippets with additional features. Share beautiful screenshots of your code on your social media platforms.
 
-Project Live at: https://snippix.vercel.app/
+---Project Live at: https://snippix.vercel.app/
 
 ---
 
